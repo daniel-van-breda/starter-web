@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together. It is part of the Udemy course presented by Jason Taylor on Git.
-Adding a line for the sake of adding a line, more changes from myfeature branch too.
+Adding a line for the sake of adding a line, more changes from myfeature branch too. Updating for emergency fix after stash.
 
 ## Introduction
 
