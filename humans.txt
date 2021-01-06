@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel van Breda   daniel.vanbreda@ai.matogen.com @na
 
 # THANKS
 
