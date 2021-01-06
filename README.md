@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together. It is part of the Udemy course presented by Jason Taylor on Git.
+Adding a line for the sake of adding a line.
 
 ## Introduction
 
